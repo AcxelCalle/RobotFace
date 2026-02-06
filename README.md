@@ -2,7 +2,7 @@
 
 > Una interfaz gráfica reactiva que utiliza visión artificial para simular "ojos digitales" que siguen el movimiento del rostro del usuario en tiempo real.
 
-![Vista Previa del Funcionamiento](demo.gif)
+![Vista Previa del Funcionamiento](https://github.com/AcxelCalle/RobotFace/blob/main/demo.GIF)
 
 ## 📖 Sobre el Proyecto
 
