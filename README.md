@@ -27,8 +27,7 @@ La solución implementada separa la lógica en una arquitectura de responsabilid
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/AcxelCalle/RobotFace.git](https://github.com/AcxelCalle/RobotFace.git)
-    cd RobotFace
+    git clone https://github.com/AcxelCalle/RobotFace.git cd RobotFace
     ```
 
 2.  **Instalar dependencias:**
